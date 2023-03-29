@@ -1,0 +1,50 @@
+ #background{
+ 	background: #FFF url(image/background.jpg) no-repeat top center;
+ 	margin-top: 0px;
+ }
+
+ #farcloud {
+ 	text-align: center;
+ 	padding-top: 60px;
+
+ }
+
+/*fargound*/
+ #l1 {
+ 	text-align: center;
+ 	margin-top: 690px;
+ }
+
+/*rightface*/
+ #l2 {  
+	height: 100%;
+	width: 100%;
+	padding-top: 145px;
+	padding-left: 770px;
+	/*overflow: auto;*/
+	margin: auto; 
+	position: absolute;
+	/*top: 0; left:0; bottom: 0; right: 0; */
+ 	/*margin-right: 30px;*/
+
+ }
+
+/*leftface*/
+ #l3 {
+ 	text-align: relative;
+ 	margin-top: 120px;
+ 	margin-left: 135px;
+ }
+
+
+/*closeground*/
+ #l4 { 
+ 	text-align: center;
+ 	margin-top: 720px;
+ }
+
+/*closecloud*/
+ #l5 {
+ 	text-align: center;
+ 	padding-top: 60px;
+ }
